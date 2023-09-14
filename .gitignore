@@ -77,4 +77,6 @@ yarn-error.*
 
 # Secret file
 .env
-firebaseConfig
+
+# files
+android/
